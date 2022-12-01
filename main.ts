@@ -1,5 +1,5 @@
 function doRED () {
-    round_strip.showColor(neopixel.rgb(255, 0, 0))
+    round_strip.showColor(neopixel.rgb(70, 30, 20))
     round_strip.show()
 }
 function doblack () {
